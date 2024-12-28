@@ -1,4 +1,3 @@
-# hand-written-recognition
 # Interactive Educational Program for Children
 - Try to learn and get good results for HWR.
 - Our project aims to make learning fun by creating an interactive program where children can draw letters on a screen and get immediate feedback. 
