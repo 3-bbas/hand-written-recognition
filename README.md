@@ -7,7 +7,7 @@
 # Model
 - Using the `EMNIST` letter split, we got a good `Test Accuracy: 94.56%`.
 - We used a CNN model
-- You can see the training code in the [Notebook](model.ipynb)
+- You can see the training code in the [Notebook](Modell.ipynb)
 - Then saved the model as `ONNX` for speeding up the GUI and make the application lightweight.
 
 # Letter Recognition
