@@ -2,7 +2,7 @@
 - Try to learn and get good results for HWR.
 - Our project aims to make learning fun by creating an interactive program where children can draw letters on a screen and get immediate feedback. 
 
-![](GIF)
+![](Demo.gif)
 ![](https://github.com/Abdo-Eid/Handwriting-Recognition/blob/main/Demo.gif)
 # Model
 - Using the `EMNIST` letter split, we got a good `Test Accuracy: 94.56%`.
